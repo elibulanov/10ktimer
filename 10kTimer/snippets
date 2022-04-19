@@ -1,0 +1,4 @@
+  // window.onload = function getTime(){
+  //   let number = workDurationInput.value;
+  //   document.getElementById("time").innerHTML = number;
+  // }
